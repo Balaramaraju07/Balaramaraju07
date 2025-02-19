@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balaramaraju07
 - 👀 I’m java entusiast
 - 🌱 I’m currently learning JAVA + DSA
-- 💞️ I’m looking to collaborate with the java developers and software developing engineers
+- 💞️ I’m looking to collaborate with the JAVA DEVELOPERS and SDE...
 - 📫 How to reach me ...check out linkedin profile BALARAMARAJU ADDADA
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: ...
