@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balaramaraju07
+- 👋 Hi, I’m @Balaramaraju
 - 👀 I’m java entusiast
 - 🌱 I’m currently learning JAVA + DSA
 - 💞️ I’m looking to collaborate with the JAVA DEVELOPERS and SDE...
